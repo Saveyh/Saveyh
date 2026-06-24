@@ -21,8 +21,4 @@ I focus on core web technologies and data analytics tools.
 
 ### 📊 Performance & Activity
 
-To maintain a transparent and metrics-driven overview of my development cycle, here are my live GitHub metrics.
-
-| Most Used Languages (GitHub)
-| :---: | :---: |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saveyh&layout=compact&theme=dark&hide_border=true)
