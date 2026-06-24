@@ -1,16 +1,28 @@
-## Hi there 👋
+# Matteo Giaquinto 👋
 
-<!--
-**Saveyh/Saveyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science Student & Front-End Developer / Designer**
 
-Here are some ideas to get you started:
+🎓 **University of Neuchâtel** 
+🌐 **Portfolio:** [giaquinto.netlify.app](https://giaquinto.netlify.app/)  
+💼 **LinkedIn:** [linkedin.com/in/matteo-giaquinto](https://linkedin.com/in/matteo-giaquinto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+
+I focus on core web technologies and data analytics tools.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Data Science & Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Front-End Development & Design** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+
+---
+
+### 📊 Performance & Activity
+
+To maintain a transparent and metrics-driven overview of my development cycle, here are my live GitHub metrics.
+
+| Most Used Languages (GitHub)
+| :---: | :---: |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saveyh&layout=compact&theme=dark&hide_border=true)
