@@ -21,4 +21,4 @@ I focus on core web technologies and data analytics tools.
 
 ### 📊 Performance & Activity
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saveyh&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saveyh&layout=compact&theme=dark&hide_border=true)
