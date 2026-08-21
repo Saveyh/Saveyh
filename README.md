@@ -1,5 +1,7 @@
 # Matteo Giaquinto
 
-**Data Science Student & Front-End Developer / Designer**
+Data Science student interested in **AI, software and digital products**.
 
-🌐 **Portfolio:** [giaquinto.netlify.app](https://giaquinto.netlify.app/)  
+I like turning ideas into things that actually work.
+
+[Portfolio](https://giaquinto.netlify.app/)
