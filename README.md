@@ -3,6 +3,6 @@
 Data Science student interested in **AI, software and digital products**.
 I like turning ideas into things that actually work.
 
-Actually creating a super cool company 🤫
+Actually creating a super cool company ✨
 
 [Portfolio](https://giaquinto.netlify.app/)
