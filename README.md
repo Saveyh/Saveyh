@@ -5,4 +5,4 @@ I like turning ideas into things that actually work.
 
 Currently founding a super cool company ✨
 
-See my portfolio : https://giaquinto.dev
+See my portfolio : [giaquinto.dev](https://giaquinto.dev)
